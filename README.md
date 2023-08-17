@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Görüntü İçeriklerine Göre Kullanıcı Davranışlarının Mobil Sensörlerle ve Makine Öğrenmesi Algoritmalarıyla Tespit Edilmesi](TUBİTAK project)
 
-- 🌱 I’m currently learning **java, .NET**
+- 🌱 I’m currently learning **react native, machine learning**
 
 - 📫 How to reach me **caglacavusogludev@gmail.com**
 
