@@ -12,7 +12,7 @@
 
 ###
 
-<h3 align="left">👩🏻‍💻 about Me</h3>
+<h3 align="left">👩🏻‍💻 about me</h3>
 
 ###
 
@@ -86,6 +86,6 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">🔥   my stats :</h3>
 
 ###
